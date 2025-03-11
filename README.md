@@ -1,5 +1,5 @@
 <b>Hey guys..!<br>
-  I am Jayanth from VEMU institute of technology<br>
+  I am Jaswanth Kumar from VEMU institute of technology<br>
   This project is mainly using python and opencv.<br></b>
 # LiveSNAKEGAME
 
